@@ -1,2 +1,2 @@
 # Natural_Language_Processing
-Seome NLP codes by me
+Some NLP codes by me
